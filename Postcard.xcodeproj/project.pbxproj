@@ -13,6 +13,7 @@
 		5B1C413C1B16CE6D00DB87B6 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5B1C413B1B16CE6D00DB87B6 /* Images.xcassets */; };
 		5B1C413F1B16CE6D00DB87B6 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5B1C413D1B16CE6D00DB87B6 /* LaunchScreen.xib */; };
 		5B1C414B1B16CE6D00DB87B6 /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B1C414A1B16CE6D00DB87B6 /* PostcardTests.swift */; };
+		5B1C41551B17D4F800DB87B6 /* Galium_aparine_bCleavers .jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5B1C41541B17D4F800DB87B6 /* Galium_aparine_bCleavers .jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		5B1C41441B16CE6D00DB87B6 /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5B1C41491B16CE6D00DB87B6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5B1C414A1B16CE6D00DB87B6 /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		5B1C41541B17D4F800DB87B6 /* Galium_aparine_bCleavers .jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Galium_aparine_bCleavers .jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 		5B1C41321B16CE6D00DB87B6 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				5B1C41541B17D4F800DB87B6 /* Galium_aparine_bCleavers .jpg */,
 				5B1C41331B16CE6D00DB87B6 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -192,6 +195,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5B1C41551B17D4F800DB87B6 /* Galium_aparine_bCleavers .jpg in Resources */,
 				5B1C413A1B16CE6D00DB87B6 /* Main.storyboard in Resources */,
 				5B1C413F1B16CE6D00DB87B6 /* LaunchScreen.xib in Resources */,
 				5B1C413C1B16CE6D00DB87B6 /* Images.xcassets in Resources */,
